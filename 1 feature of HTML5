@@ -1,0 +1,12 @@
+FEATURES OF HTML5:-
+
+
+1. It has introduced new multimedia features which supports both audio and video controls by using <audio> and <video> tags.
+2.There are new graphics elements including vector graphics and tags.
+3.Enrich semantic content by including <header> <footer>, <article>, <section> and <figure> are added.
+4.Drag and Drop- The user can grab an object and drag it further dropping it to a new location.
+5.Geo-location services- It helps to locate the geographical location of a client.
+6.Web storage facility which provides web application methods to store data on the web browser.
+7.Uses SQL database to store data offline.
+8.Allows drawing various shapes like triangle, rectangle, circle, etc.
+9.Capable of handling incorrect syntax. 

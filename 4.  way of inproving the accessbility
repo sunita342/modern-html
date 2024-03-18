@@ -1,0 +1,14 @@
+1. Add ‘Alt Text' to Your Site’s Images
+When uploading images to your website, it’s likely you’ve come across the option to add ‘alternative text’ or ‘alt text'. This is text that will be displayed if the image fails to load. In addition, this text is also used when a visitor navigates your site using a screen reader, or a similar assistive device.
+2. Ensure That You Always Use Semantic HTML
+You’d be forgiven for thinking that the HTML used to code your website has little to do with accessibility. In reality, it plays a huge role in how easy your pages are to read.
+
+‘Semantic HTML' refers to clean coding that clearly defines each section of your site in chronological order:
+
+An example of clear and semantic HTML coding.
+As we’ve already mentioned, many users with disabilities rely on screen readers to navigate websites. When this type of assistive device scans a web page, it collects information based on the page's HTML structure. Unclear or messy HTML code with unnecessary additions will be more difficult for the screen reader to make sense of.
+
+3. Choose the Colors You'll Use Carefully 
+The term ‘color blindness‘ is often used in an off-the-cuff manner. However, color-related visual impairments can present a serious issue – especially for those trying to navigate certain websites.
+
+With that in mind, you'll want to make sure that the colors you select for your site contrast well. The simplest way to do that is by making sure all text stands out against your chosen background. So you’ll need to avoid using clashing colors, or shades that are similar.

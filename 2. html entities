@@ -1,0 +1,12 @@
+   
+        2.  HTML Entities 
+
+Some characters are reserved in HTML and they have special meaning when used in HTML document. For example, you cannot use the greater than and less than signs or angle brackets within your HTML text because the browser will treat them differently and will try to draw a meaning related to HTML tag.
+
+USE OF HTML Entities
+
+To display a less than sign (<) swe must write:-                 &lt;
+To display a ampersand sign (&)we must write:-    	             &amp;	&#38;	
+To display adouble quotation mark sign ("")	 we must write:-     &quot;	&#34; 
+To display non-breaking space:-                                  &nbsp; 
+to display a greater than sign (>) we must write: -	             &gt;	&#62;	
